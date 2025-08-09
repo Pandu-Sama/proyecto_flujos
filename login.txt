@@ -1,2 +1,3 @@
 Login UI implementado
 Mejora en estilos de login
+Correcciòn: Validaciòn de entradas añadida
