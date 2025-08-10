@@ -13,4 +13,6 @@
   - Què: Añade validaciòn de login.
   - Por què: Resuelve issue #12.
   - Còmo probar: Ingresa email invàlido.
+## Flujo de trabajo
+- Usamos GitHub Flow: crear ramas/*, abre PRs hacia main, y eliminar ramas tras fusionar
 
